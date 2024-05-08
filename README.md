@@ -7,7 +7,7 @@ Preparar todos os participantes para oportunidades de carreira de nível básico
 
 ### Introdução ao Cloud Foundations
 - Atividades de Laboratório
-  - Em construção... 
+  - [11-[CF]-Lab - Introdução ao Amazon EC2](Labs/introducao-ao-amazon-ec2.pdf)
 - KCs respondidos
   - [5-[CF]-KC - O que é computação em nuvem?](KCs/005.md)
   - [6-[CF]-KC - O que é a Amazon Web Services?](KCs/006.md)
