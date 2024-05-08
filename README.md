@@ -5,10 +5,10 @@ Preparar todos os participantes para oportunidades de carreira de nível básico
 
 ## 1. Introdução ao Cloud Foundation
 
-### Atividades de Laboratório
+### Atividades de Laboratório:
 - [11-[CF]-Lab - Introdução ao Amazon EC2](Labs/introducao-ao-amazon-ec2.pdf)
 
-### KCs respondidos
+### KCs respondidos:
 - [5-[CF]-KC - O que é computação em nuvem?](KCs/005.md)
 - [6-[CF]-KC - O que é a Amazon Web Services?](KCs/006.md)
 - [7-[CF]-KC - Fundamentos da definição de preço da AWS](KCs/007.md)
@@ -21,15 +21,15 @@ Preparar todos os participantes para oportunidades de carreira de nível básico
 
 ## 2. Redes
 
-### Atividades de Laboratório
+### Atividades de Laboratório:
 - [267-[NF]-Lab - Criar a sua VPC e iniciar um servidor Web](Labs/crie-a-sua-vpc-e-inicie-um-servidor-web.pdf)
 
 ## 3. Introdução à segurança
 
-### Atividades de Laboratório
+### Atividades de Laboratório:
 - [279-[SF]-Lab - Introdução ao gerenciamento de identidade e acesso (IAM)](Labs/introducao-ao-aws-identity-and-access-management-iam.pdf)
 
-### KCs respondidos
+### KCs respondidos:
 - [282-[SF]-KC - Introdução à segurança](KCs/282.md)
 - [288-[SF]-KC - Prevenção: Gerenciamento de identidades](KCs/288.md)
 - [291-[SF]-KC - AWS CloudTrail](KCs/291.md) *(somente em inglês)*
@@ -41,9 +41,14 @@ Preparar todos os participantes para oportunidades de carreira de nível básico
  
 ## 4. Bases
 
-### Atividades de Laboratório
+### Atividades de Laboratório:
 - [160-[DF]-Lab - Criar um servidor de banco de dados e interagir com o banco de dados usando um aplicativo](Labs/criar-um-servidor-de-banco-de-dados-e-interagir-com-o-banco-de-dados-usando-um-aplicativo.pdf)
 
-### KCs respondidos
+### KCs respondidos:
 - [308-[DF]-KC - Amazon RDS](KCs/308.md) *(somente em inglês)*
 - [309-[DF]-KC - Amazon DynamoDB](KCs/309.md) *(somente em inglês)*
+
+## 7. Preparação para exames
+
+### KCs respondidos:
+- [195-[CERT]-KC - Preparação da Certificação do Cenário de Avaliação](KCs/195.md)
