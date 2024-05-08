@@ -52,3 +52,4 @@ Preparar todos os participantes para oportunidades de carreira de nível básico
 
 ### KCs respondidos:
 - [195-[CERT]-KC - Preparação da Certificação do Cenário de Avaliação](KCs/195.md)
+- [196-[CERT]-KC - Prática de estratégia de teste de cenário](KCs/196.md)
