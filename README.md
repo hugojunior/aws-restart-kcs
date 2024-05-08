@@ -18,3 +18,7 @@ Preparar todos os participantes para oportunidades de carreira de nível básico
   - [12-[CF]-KC - Introdução ao Amazon EC2](KCs/012.md)
   - [208-[CF]-KC - Vantagens da computação em nuvem](KCs/208.md)
   - [209-[CF]-KC - Serviços e categorias da AWS](KCs/209.md)
+
+### Redes
+- Atividades de Laboratório
+  - [267-[NF]-Lab - Criar a sua VPC e iniciar um servidor Web](Labs/crie-a-sua-vpc-e-inicie-um-servidor-web.pdf)
