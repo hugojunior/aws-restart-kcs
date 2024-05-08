@@ -32,7 +32,7 @@ Preparar todos os participantes para oportunidades de carreira de nível básico
 ### KCs respondidos
 - [282-[SF]-KC - Introdução à segurança](KCs/282.md)
 - [288-[SF]-KC - Prevenção: Gerenciamento de identidades](KCs/288.md)
-- [291-[SF]-KC - AWS CloudTrail (somente em inglês)](KCs/291.md)
+- [291-[SF]-KC - AWS CloudTrail](KCs/291.md) *(somente em inglês)*
 - [292-[SF]-KC - AWS Config](KCs/292.md)
 - [295-[SF]-KC - Trusted Advisor](KCs/295.md)
 - [296-[SF]-KC - Práticas recomendadas de segurança para a criação de conta](KCs/296.md)
@@ -43,3 +43,7 @@ Preparar todos os participantes para oportunidades de carreira de nível básico
 
 ### Atividades de Laboratório
 - [160-[DF]-Lab - Criar um servidor de banco de dados e interagir com o banco de dados usando um aplicativo](Labs/criar-um-servidor-de-banco-de-dados-e-interagir-com-o-banco-de-dados-usando-um-aplicativo.pdf)
+
+### KCs respondidos
+- [308-[DF]-KC - Amazon RDS](KCs/308.md) *(somente em inglês)*
+- [309-[DF]-KC - Amazon DynamoDB](KCs/309.md) *(somente em inglês)*
