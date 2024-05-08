@@ -25,4 +25,11 @@ Preparar todos os participantes para oportunidades de carreira de nível básico
 - Atividades de Laboratório
   - [279-[SF]-Lab - Introdução ao gerenciamento de identidade e acesso (IAM)](Labs/introducao-ao-aws-identity-and-access-management-iam.pdf)
 - KCs respondidos
-  - ...
+  - [282-[SF]-KC - Introdução à segurança](KCs/282.md)
+  - [288-[SF]-KC - Prevenção: Gerenciamento de identidades](KCs/288.md)
+  - [291-[SF]-KC - AWS CloudTrail (somente em inglês)](KCs/291.md)
+  - [292-[SF]-KC - AWS Config](KCs/292.md)
+  - [295-[SF]-KC - Trusted Advisor](KCs/295.md)
+  - [296-[SF]-KC - Práticas recomendadas de segurança para a criação de conta](KCs/296.md)
+  - [297-[SF]-KC - Programa de conformidade de segurança da AWS](KCs/297.md)
+  - [298-[SF]-KC - Recursos de segurança da AWS](KCs/298.md)
