@@ -3,9 +3,7 @@
 ## Objetivo do programa
 Preparar todos os participantes para oportunidades de carreira de nível básico em TI por meio do desenvolvimento de conhecimentos e competências, além da aplicação prática de habilidades técnicas baseadas na nuvem. 
 
-## Conteúdo do Curso
-
-### Introdução ao Cloud Foundations
+## Introdução ao Cloud Foundations
 - Atividades de Laboratório
   - [11-[CF]-Lab - Introdução ao Amazon EC2](Labs/introducao-ao-amazon-ec2.pdf)
 - KCs respondidos
@@ -19,6 +17,12 @@ Preparar todos os participantes para oportunidades de carreira de nível básico
   - [208-[CF]-KC - Vantagens da computação em nuvem](KCs/208.md)
   - [209-[CF]-KC - Serviços e categorias da AWS](KCs/209.md)
 
-### Redes
+## Redes
 - Atividades de Laboratório
   - [267-[NF]-Lab - Criar a sua VPC e iniciar um servidor Web](Labs/crie-a-sua-vpc-e-inicie-um-servidor-web.pdf)
+
+## Introdução à segurança
+- Atividades de Laboratório
+  - [279-[SF]-Lab - Introdução ao gerenciamento de identidade e acesso (IAM)](Labs/introducao-ao-aws-identity-and-access-management-iam.pdf)
+- KCs respondidos
+  - ...
