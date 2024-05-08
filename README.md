@@ -33,3 +33,7 @@ Preparar todos os participantes para oportunidades de carreira de nível básico
   - [296-[SF]-KC - Práticas recomendadas de segurança para a criação de conta](KCs/296.md)
   - [297-[SF]-KC - Programa de conformidade de segurança da AWS](KCs/297.md)
   - [298-[SF]-KC - Recursos de segurança da AWS](KCs/298.md)
+ 
+## Bases
+- Atividades de Laboratório
+  - [160-[DF]-Lab - Criar um servidor de banco de dados e interagir com o banco de dados usando um aplicativo](Labs/criar-um-servidor-de-banco-de-dados-e-interagir-com-o-banco-de-dados-usando-um-aplicativo.pdf)
