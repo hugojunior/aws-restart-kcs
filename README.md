@@ -1,14 +1,7 @@
 # AWS re/Start
-
-## Objetivo do programa
 Preparar todos os participantes para oportunidades de carreira de nível básico em TI por meio do desenvolvimento de conhecimentos e competências, além da aplicação prática de habilidades técnicas baseadas na nuvem. 
 
-## 1. Introdução ao Cloud Foundation
-
-### Atividades de Laboratório:
-- [11-[CF]-Lab - Introdução ao Amazon EC2](Labs/introducao-ao-amazon-ec2.pdf)
-
-### KCs respondidos:
+## Introdução ao Cloud Foundation
 - [5-[CF]-KC - O que é computação em nuvem?](KCs/005.md)
 - [6-[CF]-KC - O que é a Amazon Web Services?](KCs/006.md)
 - [7-[CF]-KC - Fundamentos da definição de preço da AWS](KCs/007.md)
@@ -19,17 +12,7 @@ Preparar todos os participantes para oportunidades de carreira de nível básico
 - [208-[CF]-KC - Vantagens da computação em nuvem](KCs/208.md)
 - [209-[CF]-KC - Serviços e categorias da AWS](KCs/209.md)
 
-## 2. Redes
-
-### Atividades de Laboratório:
-- [267-[NF]-Lab - Criar a sua VPC e iniciar um servidor Web](Labs/crie-a-sua-vpc-e-inicie-um-servidor-web.pdf)
-
-## 3. Introdução à segurança
-
-### Atividades de Laboratório:
-- [279-[SF]-Lab - Introdução ao gerenciamento de identidade e acesso (IAM)](Labs/introducao-ao-aws-identity-and-access-management-iam.pdf)
-
-### KCs respondidos:
+## Introdução à segurança
 - [282-[SF]-KC - Introdução à segurança](KCs/282.md)
 - [288-[SF]-KC - Prevenção: Gerenciamento de identidades](KCs/288.md)
 - [291-[SF]-KC - AWS CloudTrail](KCs/291.md) *(somente em inglês)*
@@ -39,25 +22,11 @@ Preparar todos os participantes para oportunidades de carreira de nível básico
 - [297-[SF]-KC - Programa de conformidade de segurança da AWS](KCs/297.md)
 - [298-[SF]-KC - Recursos de segurança da AWS](KCs/298.md)
  
-## 4. Bases
-
-### Atividades de Laboratório:
-- [160-[DF]-Lab - Criar um servidor de banco de dados e interagir com o banco de dados usando um aplicativo](Labs/criar-um-servidor-de-banco-de-dados-e-interagir-com-o-banco-de-dados-usando-um-aplicativo.pdf)
-
-### KCs respondidos:
+## Bases
 - [308-[DF]-KC - Amazon RDS](KCs/308.md) *(somente em inglês)*
 - [309-[DF]-KC - Amazon DynamoDB](KCs/309.md) *(somente em inglês)*
 
-## 5. Jumpstart no AWS Advanced
-
-### KCs respondidos:
-- [218-[JAWS]-KC - Monitoramento e segurança](KCs/218.md)
-- [219-[JAWS]-KC - Gerenciando o consumo de recursos](KCs/219.md)
-- [220-[JAWS]-KC - Criando implantações repetíveis automatizadas](KCs/220.md)
-
-## 6. Jumpstart na AWS
-
-### KCs respondidos:
+## Jumpstart na AWS
 - [167-[JAWS]-KC - Well-Architected Framework](KCs/195.md)
 - [212-[JAWS]-KC - Computação (servidores)](KCs/195.md)
 - [213-[JAWS]-KC - Computação (dimensionamento e resolução de nomes)](KCs/195.md)
@@ -66,9 +35,12 @@ Preparar todos os participantes para oportunidades de carreira de nível básico
 - [216-[JAWS]-KC - Rede](KCs/195.md)
 - [217-[JAWS]-KC - Armazenamento e arquivamento](KCs/195.md)
 
-## 7. Preparação para exames
+## Jumpstart no AWS Advanced
+- [218-[JAWS]-KC - Monitoramento e segurança](KCs/218.md)
+- [219-[JAWS]-KC - Gerenciando o consumo de recursos](KCs/219.md)
+- [220-[JAWS]-KC - Criando implantações repetíveis automatizadas](KCs/220.md)
 
-### KCs respondidos:
+## Preparação para exames
 - [195-[CERT]-KC - Preparação da Certificação do Cenário de Avaliação](KCs/195.md)
 - [196-[CERT]-KC - Prática de estratégia de teste de cenário](KCs/196.md)
 - [197-[CERT]-KC - Computação em nuvem](KCs/197.md)
