@@ -59,3 +59,8 @@ Preparar todos os participantes para oportunidades de carreira de nível básico
 - [200-[CERT]-KC - Compute](KCs/200.md)
 - [201-[CERT]-KC - Gerenciamento de identidade e acesso [IAM]](KCs/201.md)
 - [202-[CERT]-KC - Amazon Virtual Private Cloud [VPC]](KCs/202.md)
+- [203-[CERT]-KC - Armazenamento](KCs/203.md)
+- [204-[CERT]-KC - Bancos de dados](KCs/204.md)
+- [205-[CERT]-KC - Cobrança e suporte](KCs/205.md)
+- [206-[CERT]-KC - Arquitetura em nuvem](KCs/206.md)
+- [207-[CERT]-KC - Balanceamento - Dimensionamento - Monitoramento](KCs/207.md)
