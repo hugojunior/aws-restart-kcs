@@ -53,3 +53,7 @@ Preparar todos os participantes para oportunidades de carreira de nível básico
 ### KCs respondidos:
 - [195-[CERT]-KC - Preparação da Certificação do Cenário de Avaliação](KCs/195.md)
 - [196-[CERT]-KC - Prática de estratégia de teste de cenário](KCs/196.md)
+- [197-[CERT]-KC - Computação em nuvem](KCs/197.md)
+- [198-[CERT]-KC - Economia da nuvem](KCs/198.md)
+- [199-[CERT]-KC - Infraestrutura global da AWS](KCs/199.md)
+- [200-[CERT]-KC - Compute](KCs/200.md)
