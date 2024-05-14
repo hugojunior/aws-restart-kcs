@@ -48,6 +48,16 @@ Preparar todos os participantes para oportunidades de carreira de nível básico
 - [308-[DF]-KC - Amazon RDS](KCs/308.md) *(somente em inglês)*
 - [309-[DF]-KC - Amazon DynamoDB](KCs/309.md) *(somente em inglês)*
 
+## 5. Jumpstart no AWS Advanced
+
+### KCs respondidos:
+- ...embreve!
+
+## 6. Jumpstart na AWS
+
+### KCs respondidos:
+- ...embreve!
+
 ## 7. Preparação para exames
 
 ### KCs respondidos:
