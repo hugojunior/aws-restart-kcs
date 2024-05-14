@@ -51,12 +51,20 @@ Preparar todos os participantes para oportunidades de carreira de nível básico
 ## 5. Jumpstart no AWS Advanced
 
 ### KCs respondidos:
-- ...embreve!
+- [218] - (Em breve)
+- [219] - (Em breve)
+- [220] - (Em breve)
 
 ## 6. Jumpstart na AWS
 
 ### KCs respondidos:
-- ...embreve!
+- [167] - (Em breve)
+- [212] - (Em breve)
+- [213] - (Em breve)
+- [214] - (Em breve)
+- [215] - (Em breve)
+- [216] - (Em breve)
+- [217] - (Em breve)
 
 ## 7. Preparação para exames
 
