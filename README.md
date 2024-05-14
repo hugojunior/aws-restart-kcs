@@ -51,9 +51,9 @@ Preparar todos os participantes para oportunidades de carreira de nível básico
 ## 5. Jumpstart no AWS Advanced
 
 ### KCs respondidos:
-- [218] - (Em breve)
-- [219] - (Em breve)
-- [220] - (Em breve)
+- [218-[JAWS]-KC - Monitoramento e segurança](KCs/218.md)
+- [219-[JAWS]-KC - Gerenciando o consumo de recursos](KCs/219.md)
+- [220-[JAWS]-KC - Criando implantações repetíveis automatizadas](KCs/220.md)
 
 ## 6. Jumpstart na AWS
 
