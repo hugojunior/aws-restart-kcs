@@ -58,13 +58,13 @@ Preparar todos os participantes para oportunidades de carreira de nível básico
 ## 6. Jumpstart na AWS
 
 ### KCs respondidos:
-- [167] - (Em breve)
-- [212] - (Em breve)
-- [213] - (Em breve)
-- [214] - (Em breve)
-- [215] - (Em breve)
-- [216] - (Em breve)
-- [217] - (Em breve)
+- [167-[JAWS]-KC - Well-Architected Framework](KCs/195.md)
+- [212-[JAWS]-KC - Computação (servidores)](KCs/195.md)
+- [213-[JAWS]-KC - Computação (dimensionamento e resolução de nomes)](KCs/195.md)
+- [214-[JAWS]-KC - Computação (contêineres)](KCs/195.md)
+- [215-[JAWS]-KC - Computação (bancos de dados)](KCs/195.md) *(somente em inglês)*
+- [216-[JAWS]-KC - Rede](KCs/195.md)
+- [217-[JAWS]-KC - Armazenamento e arquivamento](KCs/195.md)
 
 ## 7. Preparação para exames
 
