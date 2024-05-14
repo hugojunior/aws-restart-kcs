@@ -1,5 +1,12 @@
-# AWS re/Start
-Preparar todos os participantes para oportunidades de carreira de nível básico em TI por meio do desenvolvimento de conhecimentos e competências, além da aplicação prática de habilidades técnicas baseadas na nuvem. 
+# AWS re/Start - Resolvendo KCs
+Os *Knowledge Checks* (KCs) são atividades de perguntas e respostas oferecidas aos alunos da AWS Re/Start. São componentes essenciais do curso, servindo para reforçar o aprendizado de cada módulo e são requisitos para a conclusão do programa.
+
+O material dos KCs é rico em informações sobre os serviços da AWS e é extremamente útil para aqueles que estão se preparando para a certificação de **_Cloud Practitioner_**, oferecendo uma excelente oportunidade para simulação de exames.
+
+Na plataforma, os KCs podem ser respondidos em vários idiomas, mas aqui me concentrei em fornecer informações apenas em português. Alguns KCs estão disponíveis apenas em inglês, sem tradução disponível.
+
+> [!WARNING]
+> É importante observar que algumas questões e opções de resposta podem variar de acordo com o idioma. Além disso, alguns KCs podem não funcionar corretamente em outros idiomas, como é o caso do [KC-215](KCs/195.md). Portanto, é fundamental estar atento a essas detalhes.
 
 ## Introdução ao Cloud Foundation
 - [5-[CF]-KC - O que é computação em nuvem?](KCs/005.md)
