@@ -57,3 +57,5 @@ Preparar todos os participantes para oportunidades de carreira de nível básico
 - [198-[CERT]-KC - Economia da nuvem](KCs/198.md)
 - [199-[CERT]-KC - Infraestrutura global da AWS](KCs/199.md)
 - [200-[CERT]-KC - Compute](KCs/200.md)
+- [201-[CERT]-KC - Gerenciamento de identidade e acesso [IAM]](KCs/201.md)
+- [202-[CERT]-KC - Amazon Virtual Private Cloud [VPC]](KCs/202.md)
