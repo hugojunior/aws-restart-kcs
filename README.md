@@ -61,3 +61,5 @@ Na plataforma, os KCs podem ser respondidos em vários idiomas, mas aqui me conc
 - [205-[CERT]-KC - Cobrança e suporte](KCs/205.md)
 - [206-[CERT]-KC - Arquitetura em nuvem](KCs/206.md)
 - [207-[CERT]-KC - Balanceamento - Dimensionamento - Monitoramento](KCs/207.md)
+
+Última atualização: 14/05/2024
